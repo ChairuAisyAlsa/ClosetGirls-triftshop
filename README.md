@@ -1,2 +1,2 @@
-# ClosetGrils-trifthop
+# ClosetGrils-triftShop
 Project aplikasi ClosetGrils triftshop
