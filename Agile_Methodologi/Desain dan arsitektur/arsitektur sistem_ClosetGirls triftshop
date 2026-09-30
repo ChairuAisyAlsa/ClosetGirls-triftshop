@@ -73,7 +73,7 @@ graph TB
 
 ### Gambaran sederhananya:
 
-```mermaid
+```text
         PENGGUNA / ADMIN
                ↓
           WEBSITE
@@ -260,7 +260,7 @@ erDiagram
 
 ### Jadi bentuk akhirnya untuk tugas kalian:
 
-```mermaid
+```text
 ARSITEKTUR SISTEM
         │
         ├── 1. Diagram Arsitektur
